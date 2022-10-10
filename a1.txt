@@ -1,0 +1,2 @@
+details inside a1.txt
+this is regular file created by Hemachander N
